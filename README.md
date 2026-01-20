@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**soroqn1/soroqn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Here are some ideas to get you started:
+Hi!👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Yaroslav, a fullstack-oriented backend developer specialized in Python and Go, focused on building scalable architectures and interactive interfaces with React and Vue.js. I have a background in AI/ML using TensorFlow and a strong commitment to writing clean, maintainable code following OOP and SOLID principles
+
+### 🛠 Skills
+* **Languages:** Python, JavaScript, Go
+* **Backend:** FastAPI, Flask, Django, REST API, Celery, Redis
+* **Frontend:** Vue.js, React, HTML5, CSS3, Tailwind CSS
+* **Tools & DevOps:** Git, Docker, Docker Compose, CI/CD, Linux, Postman, Figma
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soroqn1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroqn1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="45%" />
+</p>
+
+### 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/yaroslav-sorochan-8098231b1/) | [Telegram](https://t.me/soroqn) | soroqn@icloud.com
