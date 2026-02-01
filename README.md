@@ -11,10 +11,5 @@ I'm Yaroslav, a fullstack-oriented backend developer specialized in Python and G
 * **Frontend:** Vue.js, React, HTML5, CSS3, Tailwind CSS
 * **Tools & DevOps:** Git, Docker, Docker Compose, CI/CD, Linux, Postman, Figma
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soroqn1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroqn1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="45%" />
-</p>
-
 ### 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/yaroslav-sorochan-8098231b1/) | [Telegram](https://t.me/soroqn) | soroqn@icloud.com
