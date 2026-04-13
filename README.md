@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend-oriented+Developer;Python+%26+Go;Vue+%26+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Engineer;FastAPI+%26+Django;Python+%26+Go" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
 ### 👨‍💻 About Me
 
-**Fullstack-Oriented Backend Developer**
+**Python Backend Developer**
 
-_Building scalable architectures and crafting interactive interfaces._
+_Worked on real-time control systems. Now building tools for developers._
 
 <p align="center">
-  I specialize in <b>Python</b> and <b>Go</b>, creating high-performance and reliable backend systems.<br>
-  With a strong server-side foundation, I also professionally implement <br>
-  interactive interfaces using <b>React</b> and <b>Vue.js</b> to build end-to-end products.
+  1+ year commercial experience. Mostly backend, sometimes whatever needs to get done.
 </p>
 
 </div>
@@ -24,27 +22,15 @@ _Building scalable architectures and crafting interactive interfaces._
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/Languages%20%26%20Core-3670A0?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Core%20Stack%20%26%20Databases-3670A0?style=for-the-badge" />
   </p>
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,java,cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis&theme=dark" />
   <br/><br/><br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Backend%20%26%20Databases-009485?style=for-the-badge" />
-  </p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,express,nextjs,redis,postgres,mysql,mongodb&theme=dark" />
-  <br/><br/><br/>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Frontend%20%26%20Styles-42b883?style=for-the-badge" />
-  </p>
-  <img src="https://skillicons.dev/icons?i=vue,react,html,css,tailwind,sass,bootstrap&theme=dark" />
-  <br/><br/><br/>
-  
-  <p align="center">
     <img src="https://img.shields.io/badge/Tools%20%26%20DevOps-2496ed?style=for-the-badge" />
   </p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,figma,github,vscode,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,github,vscode,pycharm&theme=dark" />
 </div>
 
 ---
