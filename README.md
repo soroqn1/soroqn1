@@ -8,10 +8,10 @@
 
 **Python Backend Developer**
 
-_Worked on real-time control systems. Now building tools for developers._
+_Wrote software that ran on real hardware, in a defense context, with real consequences._
 
 <p align="center">
-  1+ year commercial experience. Mostly backend, sometimes whatever needs to get done.
+  1+ year commercial experience. Worked on a defense-sector product - the kind where bugs have consequences beyond the screen.
 </p>
 
 </div>
